@@ -3,7 +3,7 @@
 
 Выполнение проекты:
 
-1. https://hothousesochi.ru/ - сайт "под ключ" на WordPress. Верстка, программирование плагина, вывод необходимых атрибутов объектов недвижимости во front. Стек: HTML, CSS, JavaScript, PHP
+1. https://hothousesochi.ru/ - сайт "под ключ" на WordPress. Верстка, программирование плагина, вывод необходимых атрибутов объектов недвижимости во front, Elementor. Стек: HTML, CSS, JavaScript, PHP
 2. https://dolce-gusto.site/ - сайт "под ключ" на MODX. Верстка, посадка на CMS MODX, интеграция с модулем бронирования Travelline. Стек:  HTML, CSS, Bootstrap
 3. https://styagka-sochi.ru/, https://styagka23.ru/ - сайты "под ключ" на WordPress. Верстка (использован конструктор Gutenberg) Стек:  HTML, CSS
 4. https://aspekt-sochi.ru/ - сайт "под ключ" на MODX. Верстка, посадка на CMS MODX. Стек:  HTML, CSS, Bootstrap
