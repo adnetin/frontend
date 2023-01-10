@@ -12,3 +12,4 @@
 6. https://ак-гранд-рояль.рф/ - сайт под ключ на WordPress. Верстка (использован конструктор Elementor) Стек: HTML, CSS<br>
 На основе его https://loo.sochideveloper.ru/, https://fregat.sochideveloper.ru/, https://alpiyskiy-kvartal.sochideveloper.ru/, https://ramada.sochideveloper.ru/<br>
 7. https://ssd23.ru/ - сайт "под ключ" на MODX. Верстка, посадка на CMS MODX. Стек: HTML, CSS, Bootstrap
+8. https://petinimid.ru/ - натяжка готовой верстки на CMS MODX. Стек: HTML, CSS
